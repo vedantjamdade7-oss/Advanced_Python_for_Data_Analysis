@@ -75,3 +75,12 @@ print(df.describe())
 # Visualization
 sns.histplot(df['column'])
 plt.show()
+```
+
+## 🧑‍💻 Author
+
+**Vedant Jamdade**  
+Data Analyst | Python & SQL Enthusiast  
+
+
+
