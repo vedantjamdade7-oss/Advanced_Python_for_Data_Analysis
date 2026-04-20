@@ -34,7 +34,7 @@ The project focuses on transforming raw data into meaningful insights using powe
 - Grouping, filtering, and aggregation  
 
 ### 📊 Matplotlib
-- Line charts, bar charts, histograms  
+- Line charts, bar charts, histograms, etc
 - Plot customization  
 - Data storytelling  
 
