@@ -1,7 +1,6 @@
 # 🐍 Advanced Python for Data Analysis
 
 ---
-
 ## 📌 Project Overview
 
 This repository showcases my learning and practical implementation of **Advanced Python libraries for Data Analysis**.
