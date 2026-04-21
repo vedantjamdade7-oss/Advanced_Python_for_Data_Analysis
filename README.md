@@ -1,4 +1,4 @@
-# 🐍 Advanced Python for Data Analysis
+# 🐍 Advance Python for Data Analysis
 
 ---
 
